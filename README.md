@@ -1,7 +1,6 @@
-<h1>Cardapio Digital</h1>
+<h1>Uneasy_br</h1>
 <h2>Descrição</h2>
-<p>Essa aplicação web, é um modelo de site para apresentar o cardapio de um restaurante de uma maneira mais modederna, higiênica e econômica <p>
-<h2>Nossa equipe</h2>
+<p>Esse projeto tem por objetivo desenvolver um site para a marca de roupas Uneasy_br, que apresente seus produtos e a história da empresa, e tambem sirva de marketplace.</h2>
 
 - Nicolas Oliveira (Developer)<br>
 <a href = "https://www.linkedin.com/in/nicolas-oliveira-log//">Linkedin</a>
