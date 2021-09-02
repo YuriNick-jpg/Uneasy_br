@@ -5,8 +5,8 @@
 - Nicolas Oliveira (Developer)<br>
 <a href = "https://www.linkedin.com/in/nicolas-oliveira-log//">Linkedin</a>
 <!--
-# Backlog do produto<!--Pendente-->
-<img src = "">
+# Backlog do produto
+<img src = "https://github.com/YuriNick-jpg/Uneasy_br/blob/main/Documenta%C3%A7%C3%A3o/Product%20Backlog.png?raw=true">
 
 # Cronograma de Entregas de cada sprint<!--Pendente-->
 <img src = "">
